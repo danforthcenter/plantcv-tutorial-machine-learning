@@ -1,6 +1,11 @@
 # Machine Learning Tutorial 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-machine-learning/HEAD?labpath=index.ipynb)
+<a target="_blank" href="https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-machine-learning.git">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+[![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github)](https://github.com/danforthcenter/plantcv-tutorial-machine-learning.git)
+
 
 The naive Bayes multiclass approach is an extension of the naive Bayes approach. It can be trained to output binary images given an input color image. Unlike the naive Bayes method, the naive Bayes multiclass approach can be trained to classify two or more classes, defined by the user. Additionally, the naive Bayes multiclass method is trained using colors sparsely sampled from images rather than the need to label all pixels in a given image.
 
