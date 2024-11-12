@@ -1,5 +1,7 @@
 # Machine Learning Tutorial 
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-machine-learning/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-machine-learning/actions/workflows/ci-tests.yml)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-machine-learning/HEAD?labpath=index.ipynb)
 <a target="_blank" href="https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-machine-learning.git">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
